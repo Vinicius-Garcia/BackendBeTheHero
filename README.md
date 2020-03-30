@@ -1,4 +1,4 @@
-# BackendBeTheHero
+# Backend Be The Hero
 Backend do projeto "be the hero" feito com nodejs, express, cors e sqlite. 
 Projeto que consiste em ongs adicionarem incidentes que aconteceram, descrição e valores que precisam e as pessoas conseguirem entrar em contato<br>
 atraves do whatsapp ou email na aplicação web.
