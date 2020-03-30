@@ -4,3 +4,14 @@ Projeto que consiste em ongs adicionarem incidentes que aconteceram, descrição
 atraves do whatsapp ou email na aplicação web.
 
 Neste repositório está feita a parte de criar ong, listar ong, criar incidente, buscar incidente e deletar incidente se for a ong que o cadastrou.
+
+
+<h1>Como rodar o backend:</h1>
+<ul>
+  <li>Clona a pasta do projeto</li>
+  <li>Abra o terminal na pasta clonada</li>
+  <li>Rode o comando <strong>npm install</strong></li>
+  <li>Após terminar rode o comando <strong>npm start</strong></li>
+</ul>  
+
+<p> Para testar as rotas utilize insomnia ou postman na localhost:3333</p>
